@@ -1,2 +1,2 @@
-# Algorithms-c-21-library
-creating library
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
